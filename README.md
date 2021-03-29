@@ -24,7 +24,8 @@ The user profile is not working
 This project was generated with:
 * CSS</br  >
 * Bootstrap3</br  >
-* Python3.6</br  >
+* 
+* Python3./br  >
 * Django framework</br  >
 * Postgresql</br  >
 
