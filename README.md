@@ -1,5 +1,5 @@
 # INSTAGRAM-CLONE
-Python 3 Application
+Python 3 app
 ## By Charles Ndugire
 
 ## Description of the application
