@@ -36,4 +36,4 @@ This project was generated with:
 ## License
 This project is licensed under the MIT License
 
-## Copyright (c) 2021 mike collins.
+## Copyright (c) 2021 Charles Ndugire
