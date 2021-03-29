@@ -72,7 +72,7 @@ Open the application on your browser `127.0.0.1:8000`.
   
   
 ## Known Bugs  
-* There are no known bugs
+* There are no known bugs at the moment.
 
 ## Contact Information   
 If you have any question or contributions, please email me at [ndugirecharles@gmail.com]  
