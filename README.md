@@ -1,6 +1,5 @@
 # INSTAGRAM-CLONE
-Python 3.6 Application
-
+Python 3 Application
 ## By CHARLES
 
 ## Description of the application
