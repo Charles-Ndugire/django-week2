@@ -1,7 +1,7 @@
 # django-week2
 # instagram clone
 
->[Owiti-Charles](https://github.com/Owiti-Charles)  
+>[Charles-Ndugire](https://github.com/Charles-Ndugire)  
   
 # Description  
 This is a clone of  Instagram where people share their  images and videos for other users to view. 
