@@ -31,7 +31,7 @@ This project was generated with:
 
 
 ## Support and contact details
- If any issues,questions,ideas and concerns are encountered,feel free to contact kiragumike95@gmail.com
+ If any issues,questions,ideas and concerns are encountered,feel free to contact ke95@gmail.com
 
 ## License
 This project is licensed under the MIT License
