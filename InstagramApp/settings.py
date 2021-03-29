@@ -14,7 +14,6 @@ from pathlib import Path
 
 from decouple import config
 
-# Email configurations remember to install python-decouple
 
 EMAIL_USE_TLS=config('EMAIL_USE_TLS')
 EMAIL_HOST=config('EMAIL_HOST')
@@ -37,7 +36,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
-# Application definition
+
 
 INSTALLED_APPS = [
     'instagram.apps.InstagramConfig',
