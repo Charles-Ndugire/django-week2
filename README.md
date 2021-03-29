@@ -36,12 +36,12 @@ cd django-week2 pip install -r requirements.txt
  ```bash 
 - python3 -m venv virtual - source virtual/bin/activate  
 ```  
-##### Install Dependencies  
+##### Install All the Dependencies  
  ```bash 
  pip install -r requirements.txt 
 ```  
  ##### Setup Database  
-  SetUp your database User,Password, Host then make migrate  
+  Set-Up your database User,Password, Host then make migrate  
  ```bash 
 python manage.py makemigrations instagram
  ``` 
