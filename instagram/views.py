@@ -5,7 +5,7 @@ from .models import Image,Profile,Comment
 from django.core.exceptions import ObjectDoesNotExist
 from .forms import NewImageForm,NewProfileForm,NewCommentForm
 
-# Create your views here.
+
 @login_required(login_url='/accounts/login/')
 def index(request):
     current_user=request.user
