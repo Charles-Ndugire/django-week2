@@ -79,5 +79,5 @@ If you have any question or contributions, please email me at [ndugirecharles@gm
   
 ## License 
 
-* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/Owiti-Charles/Picture-Globe/blob/master/LICENSE)  
-* Copyright (c) 2019 **Charles Ndugire**
+* [![License](https://img.shields.io/packagist/l/loopline-systems/closeio-api-wrapper.svg)](https://github.com/Charles-Ndugire/Picture-Globe/blob/master/LICENSE)  
+* Copyright (c) 2021 **Charles Ndugire**
