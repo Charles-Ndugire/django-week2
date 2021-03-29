@@ -1,5 +1,5 @@
 # django-week2
-# insta-lite
+# instagram clone
 
 >[Owiti-Charles](https://github.com/Owiti-Charles)  
   
