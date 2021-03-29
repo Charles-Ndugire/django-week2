@@ -26,7 +26,7 @@ To get the project .......
   
 ##### Cloning the repository:  
  ```bash 
- https://github.com/Owiti-Charles/insta-lite.git 
+ https://github.com/Charles-Ndugire/django-week2.git
 ```
 ##### Navigate into the folder and install requirements  
  ```bash 
