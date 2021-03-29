@@ -1,7 +1,7 @@
 # INSTAGRAM-CLONE
 Python 3.6 Application
 
-## By mike collins
+## By CHARLES
 
 ## Description of the application
 An instagram clone application where you post pictures and other users can like amd comment on a picture
